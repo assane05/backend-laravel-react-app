@@ -13,6 +13,6 @@ les commandes utilisées
 #php artisan migrate => c'est pour la migration de la base de donnée
 
 #php artisan tinker => c'est pour generer des users par defaut
-voici la commande : User::factory()->count(25)->create() cette derniere permet de specifier combien de user que tu veux créer par defaut
+voici la commande : User::factory()->count(25)->create() cette derniere permet de specifier combien de user tu veux créer par defaut
 
 #php artisan make:controller UserController => cette commande permet de créer un controller qui va nous servir de fichier principal de notre application ou on va mener toutes les actions de notre app
